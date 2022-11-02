@@ -3,8 +3,8 @@
 #include "WiFi.h" 
 #define pin1 13
 //Conexión a Internet
-const char* ssid = "Redmi Note 11"; //Nombre de su internet
-const char* password = "12345678"; //Contraseña de su internet
+const char* ssid = "Nova 5T"; //Nombre de su internet
+const char* password = "339d273F92"; //Contraseña de su internet
 //Información para poder subir datos a ThingSpeak
 unsigned long channelID = 1902981; //ID del canal de UDS
 const char* WriteAPIKey = "ZIZE761W8XLN1MED"; //Write API Key del canal que creaste 
